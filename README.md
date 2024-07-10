@@ -1,8 +1,5 @@
 # Welcome 
 
-![GitHub followers](https://img.shields.io/github/followers/gmook9?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/gmook9?style=social)
-
 ## 🍀 About Me
 I'm a Software Developer and a business owner.
 
