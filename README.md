@@ -1,19 +1,20 @@
-# Hi
+# Welcome 
 
 ![GitHub followers](https://img.shields.io/github/followers/gmook9?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/gmook9?style=social)
 
-## 🚀 About Me
-
+## 🍀 About Me
 I'm a Software Developer and a business owner.
 
 ## 🛠 Skills
 
 - **Languages**: TypeScript, JavaScript, Java, C++, Python, CSS, HTML, SQL, Racket
-- **Frameworks and Libraries**: React, Next.js, Node.js, Selenium, Behave, CodeceptJS, QT
-- **Tools and Platforms**: GitHub, Jenkins, AWS, Azure, Vercel
+- **Frameworks and Libraries**: React, Next.js, Node.js, Selenium, Behave, CodeceptJS,
+- **Tools and Platforms**: GitHub, Jenkins, AWS, Azure, Vercel, webMethods.io, Software AG Designer
 - **Research**: AWS cloud deployment via AWS CloudFormation, AWS EC2, AWS Route 53
 
+## 📌 Primary Focus
+Integration development
 
 ## 🔗 Connect with Me
 
