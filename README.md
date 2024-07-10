@@ -1,5 +1,5 @@
 ## 🍀 About Me
-I'm a Software Developer and a business owner.
+I'm a full stack software developer and a business owner. I have a Bachelor of Science in Computer Science.
 
 ## 🛠 Skills
 
@@ -9,6 +9,7 @@ I'm a Software Developer and a business owner.
 - **Research**: AWS cloud deployment via AWS CloudFormation, AWS EC2, AWS Route 53
 
 ## 📌 Primary Focus
+
 Integration development
 
 ## 🔗 Connect with Me
