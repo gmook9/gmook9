@@ -1,5 +1,3 @@
-# Welcome 
-
 ## 🍀 About Me
 I'm a Software Developer and a business owner.
 
