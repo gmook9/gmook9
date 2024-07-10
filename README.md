@@ -14,9 +14,6 @@ I'm a Software Developer and a business owner.
 - **Tools and Platforms**: GitHub, Jenkins, AWS, Azure, Vercel
 - **Research**: AWS cloud deployment via AWS CloudFormation, AWS EC2, AWS Route 53
 
-## 📊 GitHub Stats
-
-![Garret's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmook9&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
