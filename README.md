@@ -22,7 +22,3 @@ I'm a Software Developer and a business owner.
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gmook9&theme=radical)
-
-## 📈 Activity Graph
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmook9&theme=react-dark&hide_border=true&area=true)
