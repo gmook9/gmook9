@@ -8,7 +8,7 @@ I'm a full stack software developer and a business owner. I have a **B.S. in Com
 - **Tools and Platforms**: GitHub, Jenkins, AWS, Azure, Vercel, webMethods.io, Software AG Designer
 - **Research**: AWS cloud deployment via AWS CloudFormation, AWS EC2, AWS Route 53
 
-## 📌 Primary Focus
+## 📌 Current Primary Focus
 
 Integration development
 
