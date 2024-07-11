@@ -1,5 +1,5 @@
 ## 🍀 About Me
-I'm a full stack software developer and a business owner. I have a **B.S. in Computer Science**
+I'm a full stack software developer and a business owner. I also have a **B.S. in Computer Science**.
 
 ## 🛠 Skills
 
