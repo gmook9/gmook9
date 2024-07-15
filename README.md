@@ -12,7 +12,3 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 ## 📌 Current Primary Focus
 
 Integration development
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gmook9&theme=radical)
