@@ -11,10 +11,10 @@ I currently work full time as a **software developer**.
 
 ## 📦 Businesses
 
-#### ⛓️ Enchanting Butterfly LLC (_1500+ sales_)
+#### ⛓️ Enchanting Butterfly
 - [Shop](https://www.grailed.com/enchantingbutterfly)
 - [Official Website](https://enchantingbutterfly.com/)
 
-#### ⭐ Stardelic (_600+ sales_)
+#### ⭐ Stardelic
 - [Shop](https://www.depop.com/st4rdelic/)
 - [Official Website](https://st4rdelic.com/)
