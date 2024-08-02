@@ -7,7 +7,7 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 
 ## 👷 Work
 
-I work full time currently as a **software developer**.
+I currently work full time as a **software developer**.
 
 ## 📦 Businesses
 
