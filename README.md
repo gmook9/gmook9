@@ -5,6 +5,7 @@
 ## 📌 About Me
 I'm a full-stack software developer and a business owner with a **B.S. in Computer Science**.
 
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://garretmook.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-GarretMook-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garretmook/)](https://www.linkedin.com/in/garretmook/)
 
 ## ⚡ Skills
