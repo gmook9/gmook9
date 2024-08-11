@@ -20,7 +20,6 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=postgresql)](#)
-[![Racket](https://img.shields.io/badge/-Racket-black?style=flat-square&logo=racket)](#)
 
 **Frameworks:**
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
