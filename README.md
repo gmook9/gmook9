@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/y4VrWXz/background-Git-Hub3.jpg" alt="Background Image" width="900"/>
+  <img src="https://i.ibb.co/9hjxBmy/github-background2.png" alt="Background Image" width="900"/>
 </p>
 
 ## 📌 About Me
