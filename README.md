@@ -27,7 +27,6 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![DotNetNuke](https://img.shields.io/badge/-DotNetNuke-red?style)](#)
 
 **Tools:**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](#)
