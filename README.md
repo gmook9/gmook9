@@ -8,6 +8,25 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://garretmook.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-GarretMook-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garretmook/)](https://www.linkedin.com/in/garretmook/)
 
+## 🌐 My Shops
+- [Shop Stardelic](https://www.depop.com/st4rdelic/)  
+  Direct-to-consumer nails.
+- [Stardelic](https://st4rdelic.com/)  
+  Visit the core Stardelic brand site.
+- [Shop Enchanting Butterfly](https://www.grailed.com/enchantingbutterfly)  
+  Direct-to-consumer jewelry.
+- [Enchanting Butterfly](https://enchantingbutterfly.com/)  
+  Official LLC homepage.
+
+## ☁️ My SaaS Sites
+
+- [InciMap](https://incimap.io/)  
+  SaaS – Real-time incident logging platform.
+- [Knalc](https://www.knalc.com/)  
+  SaaS – AI-powered resume builder platform.
+- [AI UGC](https://www.aiugc.dev/)  
+  SaaS – AI UGC social media video generation.
+
 ## ⚡ Skills
 
 **Languages:**
