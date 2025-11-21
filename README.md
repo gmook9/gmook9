@@ -25,6 +25,10 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 - [AI UGC](https://www.aiugc.dev/)  
   SaaS – AI UGC social media video generation.
 
+## 🔗 My Other Sites
+- [HelpingCanada.org](https://www.helpingcanada.org/)  
+  Open-source project helping people discover verified Canadian charities
+
 ## ⚡ Skills
 
 **Languages:**
