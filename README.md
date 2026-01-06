@@ -26,8 +26,10 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
   SaaS – AI UGC social media video generation.
 
 ## 🔗 My Other Sites
-- [HelpingCanada.org](https://www.helpingcanada.org/)  
-  Open-source project helping people discover verified Canadian charities
+- [Helping Canada](https://www.helpingcanada.org/)  
+  Open-source website helping people discover verified Canadian charities
+- [Pristine UI](https://pristineui.dev/)  
+  A minimal React component library built with Tailwind for clean modern UIs.
 
 ## ⚡ Skills
 
