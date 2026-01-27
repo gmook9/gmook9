@@ -32,6 +32,6 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
   Open-source website helping people discover verified Canadian charities
 - [Pristine UI](https://pristineui.dev/)  
   Open-source minimal React component library built with Tailwind for clean modern UIs.
-- [Cold Link](https://www.coldlink.dev/)  
+- [ColdLink](https://www.coldlink.dev/)  
   Open-source QR code generator.
 
