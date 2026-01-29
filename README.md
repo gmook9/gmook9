@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.postimg.cc/X7fXvqgn/website.png" alt="Background Image" width="900"/>
+  <a href="https://garretmook.com/" target="_blank">
+    <img src="https://i.postimg.cc/X7fXvqgn/website.png" alt="Background Image" width="900"/>
+  </a>
 </p>
 
 ## 📌 About Me
