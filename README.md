@@ -26,6 +26,8 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 
 - [Knalc](https://www.knalc.com/)  
   SaaS – AI-powered resume builder platform.
+- [SectorEyes](https://www.sectoreyes.com/)  
+  SaaS - Thematic portfolio and watchlist management platform
 
 ## 🔗 My Open-source Sites
 - [Helping Canada](https://www.helpingcanada.org/)  
