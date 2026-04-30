@@ -36,3 +36,5 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
   Open-source QR code generator.
 - [FrostConvert](https://www.frostconvert.com/)  
   Open-source image conversion tool.
+- [StealthTools](https://www.stealthtools.dev/)  
+  Open-source privacy focused tools.
