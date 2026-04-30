@@ -19,8 +19,6 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
   Direct-to-consumer jewelry.
 - [Enchanting Butterfly](https://enchantingbutterfly.com/)  
   Official LLC homepage.
-- [NinetyNinecards](https://www.ninetyninecards.com)  
-  Handcrafted collectibe art.
 
 ## ☁️ My SaaS Sites
 
