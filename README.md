@@ -16,7 +16,7 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 - [Stardelic](https://st4rdelic.com/)  
   Visit the core Stardelic brand site.
 - [Shop Enchanting Butterfly](https://www.grailed.com/enchantingbutterfly)  
-  Direct-to-consumer jewelry.
+  Direct-to-consumer clothes & jewelry.
 - [Enchanting Butterfly](https://enchantingbutterfly.com/)  
   Official LLC homepage.
 
