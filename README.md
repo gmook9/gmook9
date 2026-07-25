@@ -34,4 +34,6 @@ I'm a full-stack software developer and a business owner with a **B.S. in Comput
 - [FrostConvert](https://www.frostconvert.com/)  
   Open-source image conversion tool.
 - [StealthTools](https://www.stealthtools.dev/)  
-  Open-source privacy focused tools.
+  Open-source privacy focused utilities.
+- [OpenSourceTools](https://opensourcetools.dev/)  
+  Open-source local developer tools without 3rd party packages.
