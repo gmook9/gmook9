@@ -1,39 +1,31 @@
 <p align="center">
-  <a href="https://garretmook.com/" target="_blank">
-    <img src="https://i.postimg.cc/X7fXvqgn/website.png" alt="Background Image" width="900"/>
+  <a href="https://garretmook.com/">
+    <img
+      src="https://i.postimg.cc/X7fXvqgn/website.png"
+      alt="garretmook.com"
+      width="900"
+    />
   </a>
 </p>
 
-## 📌 About Me
-I'm a full-stack software developer and a business owner with a **B.S. in Computer Science**.
+<p align="center">
+  <strong>Software engineer and creative.</strong>
+  <br />
+  Building polished web products, open-source tools, and interactive experiences.
+</p>
 
-[![My website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://garretmook.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-GarretMook-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garretmook/)](https://www.linkedin.com/in/garretmook/)
-
-## 🌐 My Shops
-- [Shop Stardelic](https://www.depop.com/st4rdelic/)  
-  Direct-to-consumer nails.
-- [Stardelic](https://st4rdelic.com/)  
-  Visit the core Stardelic brand site.
-- [Shop Enchanting Butterfly](https://www.grailed.com/enchantingbutterfly)  
-  Direct-to-consumer clothes & jewelry.
-- [Enchanting Butterfly](https://enchantingbutterfly.com/)  
-  Official LLC homepage.
-
-## ☁️ My SaaS Sites
-- [SectorEyes](https://www.sectoreyes.com/)  
-  SaaS - Thematic portfolio and watchlist management platform
-
-## 🔗 My Open-source Sites
-- [Helping Canada](https://www.helpingcanada.org/)  
-  Open-source website helping people discover verified Canadian charities
-- [Pristine UI](https://pristineui.dev/)  
-  Open-source minimal React component library built with Tailwind for clean modern UIs.
-- [ColdLink](https://www.coldlink.dev/)  
-  Open-source QR code generator.
-- [FrostConvert](https://www.frostconvert.com/)  
-  Open-source image conversion tool.
-- [StealthTools](https://www.stealthtools.dev/)  
-  Open-source privacy focused utilities.
-- [OpenSourceTools](https://opensourcetools.dev/)  
-  Open-source local developer tools without 3rd party packages.
+<p align="center">
+  <a href="https://garretmook.com/">
+    <img
+      src="https://img.shields.io/badge/portfolio-visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/garretmook/">
+    <img
+      src="https://img.shields.io/badge/linkedin-connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
