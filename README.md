@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Software engineer and creative.</strong>
   <br />
-  Building polished web products, open-source tools, and interactive experiences.
+  Building web products, open-source tools, and interactive experiences.
 </p>
 
 <p align="center">
